@@ -3,3 +3,45 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* SFONDO DELL'HEADER */
+header {
+    width: 100vw;
+    height: 100px;
+    background-image: url(/img/pattern.png);
+    background-repeat: repeat;
+    background-color: rgb(90, 171, 236) ;
+    background-size: 400px;
+   
+}
+
+/* lOGO HEADER */
+
+header img {
+    width: 200px;
+    padding: 45px 0 0 10px;
+}
+
+main {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+#first_section h3 {
+    color: grey;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+#first_section p {
+    color: grey;
+    font-weight: lighter;
+    font-size: 13px;
+}
+
+#pics_subtitles p {
+    color: black;
+}
