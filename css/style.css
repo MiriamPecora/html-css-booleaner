@@ -26,6 +26,8 @@ main {
     padding: 10px;
 }
 
+/* PRIMA SEZIONE */
+
 h1 {
     font-size: 40px;
 }
@@ -44,4 +46,9 @@ h1 {
 
 #pics_subtitles p {
     color: black;
+}
+
+/* SECONDA SEZIONE */
+#second_section {
+    margin: 20px 0 20px 0;
 }
